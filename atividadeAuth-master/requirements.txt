@@ -1,0 +1,8 @@
+Flask
+Werkzeug
+psycopg2-binary
+Flask
+Werkzeug
+psycopg2-binary
+redis
+cryptography
